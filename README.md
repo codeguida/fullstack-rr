@@ -14,3 +14,4 @@
 
 ## Список статтей
 1. [Знайомство](http://codeguida.com/post/371/)
+2. [#1.1 Налаштовуємось](http://codeguida.com/post/372/)
